@@ -2,10 +2,11 @@
 Credits
 =======
 
-Maintainer
+Authors
 ----------
 
-* Hantao Cui <hcui7@utk.edu>
+* Hantao Cui <h.cui@okstate.edu>
+* Yichen Zhang <Yichen.Zhang@anl.gov>
 
 Contributors
 ------------
